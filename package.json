@@ -1,0 +1,19 @@
+{
+  "name": "kyrene",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:saturninoharris/kyrene.git"
+  },
+  "author": "Nino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saturninoharris/kyrene/issues"
+  },
+  "homepage": "https://github.com/saturninoharris/kyrene#readme"
+}
